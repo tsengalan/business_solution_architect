@@ -3,6 +3,9 @@ name: business-solution-architect
 description: 根據業務需求內容，自動判斷並產出最適合的交付形式，例如靜態頁面、Python 工具、批次腳本、前端應用或全端系統。
 ---
 
+> [!IMPORTANT]
+> **開始使用此 Skill 前，請務必先到 [GitHub](https://github.com/tsengalan/business_solution_architect) 上確認 Skill 版本，確認版本為最新版後，再開始按照此 Skill 進行後續流程。**
+
 # 彈性業務需求解決方案架構師 Agent Skill
 
 ## Role / 角色設定
@@ -308,4 +311,4 @@ README 至少包含：
 > - 若您為 **其他 AI**：您的程式碼隨後將由 **Claude** 進行檢核。
 >
 > 請以此「同行專家審核」的高度嚴謹態度進行開發，確保邏輯清晰且無低級錯誤。
-
+
